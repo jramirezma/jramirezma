@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jramirezma&label=Profile%20views&color=0e75b6&style=flat" alt="jramirezma" /> </p>
 <h3 align="left">About me:</h3>
-Soy un programador Python autodidacta que utiliza y guía la inteligencia artificial para crear soluciones prácticas y eficientes.
+I am a self-taught Python programmer who leverages and guides artificial intelligence to create practical and efficient solutions.
 <h3 align="left">Programming languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
