@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jramirezma&label=Profile%20views&color=0e75b6&style=flat" alt="jramirezma" /> </p>
 <h3 align="left">About me:</h3>
 I am a self-taught Python programmer who leverages and guides artificial intelligence to create practical and efficient solutions.
 <h3 align="left">Programming languages:</h3>
